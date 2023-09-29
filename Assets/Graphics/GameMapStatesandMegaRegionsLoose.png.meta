@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: 24db6b948272469438d24c0356c59229
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 766
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1ea8e4e1180040b2346157ae05acf
+      internalID: 381270285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 736
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b1e429f8543a5449a2f1c0833aa7cf
+      internalID: 1509635943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 697
+        width: 156
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a4a9b939dd524a93642c8731c7625
+      internalID: -1183421407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 716
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09366999cc9527f4495fd94e89d608a5
+      internalID: 165886592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 674
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c70b16e0c4f914089687b14f3a5e3e
+      internalID: -358633412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_5
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 728
+        width: 193
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097662e0d13229d47b87f8409b800acf
+      internalID: 1858938111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_6
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 733
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181215a2e73f9a54e9dce3af7125ba47
+      internalID: 1505194658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 654
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5395f646884e4ec41b33692df35c7db3
+      internalID: 945722747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 581
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6ea449f618a75438678a7482c759f4
+      internalID: 1010806790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 573
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c105d4b10afff40a9b8979e8ba4c27
+      internalID: 1125474534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 610
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73ee6742bd9ed2418d38b74dfdd42e6
+      internalID: 1788359969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 576
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5683e2f75dbd6834bb246640e543159b
+      internalID: -195632371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_12
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 563
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a891f02a250d7a34f8f4191ea6ad48ca
+      internalID: 1588424953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 598
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9e47063a2014459d620547028487e
+      internalID: -1089356475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_14
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 598
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb43eb51f9e53514ab38d74e84951d4b
+      internalID: 717382362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_15
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 608
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dbc39bbba1e6e4ea8d81509ed741e2
+      internalID: 571014233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 566
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2708aa9f954e442bd20f5dea2bcad0
+      internalID: -1232109131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_17
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 602
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24235e71ada434449adf3a7d303cbcff
+      internalID: -1163066474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_18
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 599
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fd87dca7ff1ca468ad022d4e07d6d3
+      internalID: 1046366548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_19
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 596
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0c8540cca9984881bfaa6874ac2ed
+      internalID: 858025742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99937c9b3fdb910498d28f233afb1262
+      internalID: 70636648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 347
+        width: 126
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125565f246bee7249bd8e278325508ab
+      internalID: -1599386817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 376
+        width: 96
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23cf99eeec20345a4e52b066c52924
+      internalID: 1801849538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 425
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f898b5568d45a409592ea49001b173
+      internalID: -2132581248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_24
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 511
+        width: 126
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3947090a22a25644f9dd000edc81aa0f
+      internalID: 895872443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_25
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 506
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066a52ce7251b5948a91be78501679d4
+      internalID: -683066350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_26
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 451
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d8213a5010ff345880f56ad9f556fb
+      internalID: 729741164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_27
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 456
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82864aab88dbd4eb6d9c3a0ba149d6
+      internalID: 2053984792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_28
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 493
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd5d8c3933b1dd47b696fdb9a877c52
+      internalID: -829493221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_29
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 497
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8547d260ec7ced34f9bb33ab0b770812
+      internalID: 678573085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_30
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 510
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e26d145c1e92df4a8abeceeb92a3d40
+      internalID: 332375917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_31
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 524
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66007cb15b449964baeb6c90b245280d
+      internalID: -422161841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 402
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb611bc40c8104b9ad5196c159b4d3
+      internalID: 144249375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_33
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 383
+        width: 109
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7bc0ba4d4f8a4e81d73a1006393a6
+      internalID: 2010277960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_34
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 413
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c05dd9f49e2646992b9c5f4e1a2b7
+      internalID: 1438107028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_35
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 405
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d2fd0b06251f46bbe7a277a634171
+      internalID: -1941727691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_36
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 398
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36487e60e9123d54d92c5cd5526f2477
+      internalID: 670998109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_37
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 430
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad00c39786f4b4d802ce25174f95d8
+      internalID: 1104128874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 229
+        width: 58
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c07dd393c15994b8e4311de0292c2b
+      internalID: 1019244417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 271
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff9936bc3bf46d45972c3b10a924df3
+      internalID: 130795012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_40
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 166
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4fca57bf89367438f87dda0799a19d
+      internalID: -1889433434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_41
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 357
+        width: 134
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa1aaccf0ea1340b0ad3030ef888d4
+      internalID: 998225851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_42
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 332
+        width: 139
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d0f8818b7cbba4289151284b48237c
+      internalID: 51828978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_43
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 354
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f14723f6eb79242a1b10469130d58f
+      internalID: -2017486720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_44
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 362
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f5e1d14612254c9b28098f98b9327
+      internalID: -1572239813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 248
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d121447f0e5b4d8897c34831a81ef
+      internalID: 1687947090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_46
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 254
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236c4f546460c941a01dd5f2885efc7
+      internalID: 272218118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_47
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 193
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e732b444e197f2c4682ed39411b1f721
+      internalID: -434776297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_48
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 275
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391507f2ab93aa848adfd2d38f7eec65
+      internalID: -80855115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_49
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 278
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ba6341da60c4459e51c81690c06f5
+      internalID: -1263784966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_50
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 147
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9003c2e7d04ba7c459153f3676882033
+      internalID: 2082185294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_51
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 142
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a1dc5627d6ac0409a7236df4744b40
+      internalID: -1976406169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_52
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 166
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1c0fced39813478c0a32ea94791fa
+      internalID: 1962088514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_53
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 200
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f6c775f8672545a06e49e343efecf
+      internalID: -1457311216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_54
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 46
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fd679c602504741a24ebe7ae9b2426
+      internalID: 1720663961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_55
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 13
+        width: 209
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5129522e1994cc548bfd8bb254418c4c
+      internalID: -1499766499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_56
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 38
+        width: 155
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5d1a6d097740a4b938b58e751ea287
+      internalID: -571996811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_57
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 0
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648337860084154aba604c9577c2bfe
+      internalID: 536604138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMapStatesandMegaRegionsLoose_58
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 12
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b697e9a83b2163e49b079b42a5145116
+      internalID: 552493003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2fc1dc9e7c914242bb5dad4ec7dbcbb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameMapStatesandMegaRegionsLoose_31: -422161841
+      GameMapStatesandMegaRegionsLoose_19: 858025742
+      GameMapStatesandMegaRegionsLoose_42: 51828978
+      GameMapStatesandMegaRegionsLoose_44: -1572239813
+      GameMapStatesandMegaRegionsLoose_34: 1438107028
+      GameMapStatesandMegaRegionsLoose_1: 1509635943
+      GameMapStatesandMegaRegionsLoose_37: 1104128874
+      GameMapStatesandMegaRegionsLoose_18: 1046366548
+      GameMapStatesandMegaRegionsLoose_46: 272218118
+      GameMapStatesandMegaRegionsLoose_7: 945722747
+      GameMapStatesandMegaRegionsLoose_36: 670998109
+      GameMapStatesandMegaRegionsLoose_3: 165886592
+      GameMapStatesandMegaRegionsLoose_17: -1163066474
+      GameMapStatesandMegaRegionsLoose_55: -1499766499
+      GameMapStatesandMegaRegionsLoose_28: -829493221
+      GameMapStatesandMegaRegionsLoose_58: 552493003
+      GameMapStatesandMegaRegionsLoose_26: 729741164
+      GameMapStatesandMegaRegionsLoose_43: -2017486720
+      GameMapStatesandMegaRegionsLoose_22: 1801849538
+      GameMapStatesandMegaRegionsLoose_24: 895872443
+      GameMapStatesandMegaRegionsLoose_49: -1263784966
+      GameMapStatesandMegaRegionsLoose_45: 1687947090
+      GameMapStatesandMegaRegionsLoose_2: -1183421407
+      GameMapStatesandMegaRegionsLoose_50: 2082185294
+      GameMapStatesandMegaRegionsLoose_16: -1232109131
+      GameMapStatesandMegaRegionsLoose_20: 70636648
+      GameMapStatesandMegaRegionsLoose_51: -1976406169
+      GameMapStatesandMegaRegionsLoose_4: -358633412
+      GameMapStatesandMegaRegionsLoose_12: 1588424953
+      GameMapStatesandMegaRegionsLoose_27: 2053984792
+      GameMapStatesandMegaRegionsLoose_38: 1019244417
+      GameMapStatesandMegaRegionsLoose_57: 536604138
+      GameMapStatesandMegaRegionsLoose_5: 1858938111
+      GameMapStatesandMegaRegionsLoose_13: -1089356475
+      GameMapStatesandMegaRegionsLoose_9: 1125474534
+      GameMapStatesandMegaRegionsLoose_29: 678573085
+      GameMapStatesandMegaRegionsLoose_21: -1599386817
+      GameMapStatesandMegaRegionsLoose_52: 1962088514
+      GameMapStatesandMegaRegionsLoose_30: 332375917
+      GameMapStatesandMegaRegionsLoose_35: -1941727691
+      GameMapStatesandMegaRegionsLoose_56: -571996811
+      GameMapStatesandMegaRegionsLoose_32: 144249375
+      GameMapStatesandMegaRegionsLoose_15: 571014233
+      GameMapStatesandMegaRegionsLoose_39: 130795012
+      GameMapStatesandMegaRegionsLoose_41: 998225851
+      GameMapStatesandMegaRegionsLoose_8: 1010806790
+      GameMapStatesandMegaRegionsLoose_33: 2010277960
+      GameMapStatesandMegaRegionsLoose_10: 1788359969
+      GameMapStatesandMegaRegionsLoose_0: 381270285
+      GameMapStatesandMegaRegionsLoose_11: -195632371
+      GameMapStatesandMegaRegionsLoose_48: -80855115
+      GameMapStatesandMegaRegionsLoose_23: -2132581248
+      GameMapStatesandMegaRegionsLoose_14: 717382362
+      GameMapStatesandMegaRegionsLoose_53: -1457311216
+      GameMapStatesandMegaRegionsLoose_40: -1889433434
+      GameMapStatesandMegaRegionsLoose_6: 1505194658
+      GameMapStatesandMegaRegionsLoose_47: -434776297
+      GameMapStatesandMegaRegionsLoose_25: -683066350
+      GameMapStatesandMegaRegionsLoose_54: 1720663961
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
